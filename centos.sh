@@ -1,5 +1,5 @@
 #! /bin/bash
-#/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/oyangjian/tools/main/centos8/startup_centos.sh)"
+#/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/pigbigbigger/script/main/centos.sh)"
 # sudo visudo
 #
 # /etc/ssh/sshd_config
